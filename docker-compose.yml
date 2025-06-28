@@ -1,0 +1,20 @@
+services:
+  user-services:
+    build: ./Microservices/user-service
+    ports:
+      - "3000:3000"
+  
+  product-services:
+    build: ./Microservices/product-service
+    ports:
+      - "3001:3001"
+  
+  order-services:
+    build: ./Microservices/order-service
+    ports:
+      - "3002:3002"
+  
+  gateway-services:
+    build: ./Microservices/gateway-service
+    ports:
+      - "3003:3003"
