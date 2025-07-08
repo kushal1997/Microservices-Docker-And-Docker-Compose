@@ -136,15 +136,6 @@ curl http://localhost:3002/orders
       
 ---
 
-## 📁 Folder Structure (Final Submission)
-
-📸 **Screenshot**: *Folder structure of `submission` using `tree /f`*
-      <p align="center">
-        <img src="./screenshots/submission_file_structure.png" width="800" alt="'submission' folder sructure" />
-      </p>
-
----
-
 ## 👤 Author
 
 - **U KUSHAL RAO**
